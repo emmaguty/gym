@@ -1,0 +1,29 @@
+.navbar {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: wheat !important;
+}
+
+.navbar-brand {
+    font-size: 3em;
+    padding: 0px 60px;
+    color: whitesmoke !important;
+}
+.navbar-brand span{
+    font-size: 1.5em;
+    color: var(--main) !important;
+}
+
+.navbar-nav{
+    padding: 0px 60px;
+    margin-top: 50px;
+}
+
+.nav-link{
+    color: aliceblue !important;
+}
+
+.nav-link:hover{
+    color: var(--main) !important;
+}
